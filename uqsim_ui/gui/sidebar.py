@@ -1,6 +1,6 @@
 from PIL import Image
 
-image = Image.open('/home/nmlemus/research/uqsimpy/assets/logo2.png')
+image = Image.open('/Users/macbook12/research/uqsimpy/assets/logo.png')
 
 
 def set_sidebar(st):
